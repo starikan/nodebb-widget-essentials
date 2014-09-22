@@ -74,3 +74,17 @@
 .popular-tags > span {
 	margin-bottom: 10px;
 }
+
+.users-online-container {
+	padding: 0px;
+	margin: 0px;
+}
+
+.users-online-block {
+	display: inline-block;
+}
+
+.users-online {
+	width: 26px;
+	height: 26px;
+}
